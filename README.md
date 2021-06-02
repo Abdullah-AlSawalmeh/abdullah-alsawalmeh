@@ -1,8 +1,8 @@
 ### Hi there 👋
 =====  
 1- Python and Javascript enthusiast (Admire code challenges).  
-2- BS.c - Mechanical Engineering - Jordan University of Science and Technology - Mobbing Robot -Jordan.  
-3- MS.c - Mechatronics Engineering - Universty of Debrecen - Detect IDC using machine and deep learning - Hunagary/Europe.  
+2- BS.c - Mechanical Engineering - Jordan University of Science and Technology - Mopping Robot -Jordan.  
+3- MS.c - Mechatronics Engineering - Universty of Debrecen - Detect IDC cancer using machine and deep learning - Hunagary/Europe.  
 4- CTO @ Dalilk.com.  
 5- Former Customer Service Agent at Transcosmos Information Systems Ltd - Ryanair desk - Hungary.  
 
