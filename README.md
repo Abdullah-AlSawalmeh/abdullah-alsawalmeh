@@ -1,7 +1,7 @@
 ### Hi there 👋
 =====  
-1- Python and Javascript enthusiast (Admire code challenges).  
-2- DevOps Engineer.
+- Python, GO and Javascript enthusiast (Admire code challenges).  
+- DevOps Engineer.
 
 <!--
 **Abdullah-AlSawalmeh/abdullah-alsawalmeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullah-alsawalmeh&show_icons=true&theme=tokyonight)](https://github.com/abdullah-alsawalmeh/github-readme-stats)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-alsawalmeh&show_icons=true&theme=tokyonight)](https://github.com/abdullah-alsawalmeh/github-readme-stats)
 
